@@ -1,0 +1,34 @@
+[
+    {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SON",
+        "regionName": "Sonora",
+        "city": "Hermosillo",
+        "zip": "83346",
+        "lat": 29.0248,
+        "lon": -111.474,
+        "timezone": "America/Hermosillo",
+        "isp": "Mega Cable, S.A. de C.V.",
+        "org": "Mega Cable, S.A. de C.V.",
+        "as": "AS13999 Mega Cable, S.A. de C.V.",
+        "query": "187.245.113.196"
+    },
+    {
+        "status": "success",
+        "country": "Mexico",
+        "countryCode": "MX",
+        "region": "SON",
+        "regionName": "Sonora",
+        "city": "Hermosillo",
+        "zip": "83303",
+        "lat": 29.1208,
+        "lon": -110.838,
+        "timezone": "America/Hermosillo",
+        "isp": "Mega Cable, S.A. de C.V.",
+        "org": "Mega Cable, S.A. de C.V.",
+        "as": "AS13999 Mega Cable, S.A. de C.V.",
+        "query": "187.245.113.196"
+    }
+]
